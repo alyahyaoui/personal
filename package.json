@@ -1,0 +1,14 @@
+{
+  "name": "frp",
+  "version": "1.0.0",
+  "description": "my first real project",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "ali yahyaoui",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
